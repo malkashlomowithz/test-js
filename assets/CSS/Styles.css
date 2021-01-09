@@ -1,0 +1,4 @@
+i{ cursor:pointer;}
+.lightBox{ background: rgba(0,0,0,0.7); position: fixed; top:0; right: 0; width: 100%; height: 100%; display: none; flex-direction: column; justify-content: center; align-items: center;}
+.active{ background: #b093b5; color: #fff;}
+.card_webschool{ background:#fff url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDBweCIgdmlld0JveD0iMCAwIDE5MjAgMTYwIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogPHBvbHlnb24gc3R5bGU9Im9wYWNpdHk6IDAuNTsiIHBvaW50cz0iMTkyMCwxNDYgMTkyMCwxMTcuNyAxMTEyLjUsODQuNiAiIGZpbGw9InJnYmEoOTgsNDEsMTA4LDEpIj48L3BvbHlnb24+Cjxwb2x5Z29uIHN0eWxlPSJvcGFjaXR5OiAwLjU7IiBwb2ludHM9IjExMTIuNSw4NC42IDAsMCAwLDM5ICIgZmlsbD0icmdiYSg5OCw0MSwxMDgsMSkiPjwvcG9seWdvbj4KPHBvbHlnb24gc3R5bGU9IiIgcG9pbnRzPSIxOTIwLDExNy43IDE5MjAsMCAwLDAgMTExMi41LDg0LjYgIiBmaWxsPSJyZ2JhKDk4LDQxLDEwOCwxKSI+PC9wb2x5Z29uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3ZnPg==") no-repeat top left;  width: 350px; }
